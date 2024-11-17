@@ -39,6 +39,5 @@ The project is structured around the following tables:
    ## Demo Video
 
 Check out the demo video for a quick overview of how the system works:  
-[![Video Thumbnail]()](https://www.loom.com/share/5ced74821f5546e18030ffd4bb4dd2d1?sid=e0748943-5724-4e1b-a20b-96929b3758b3))
+(https://www.loom.com/share/5ced74821f5546e18030ffd4bb4dd2d1?sid=e0748943-5724-4e1b-a20b-96929b3758b3))
 
-Replace `YOUR_VIDEO_ID` with the actual YouTube video ID for the link to work.
